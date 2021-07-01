@@ -1,0 +1,6 @@
+C:\ProjectFiles\tools\anvil_cli\chart_display\libs\Named-Pipes\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Debug\ClientServerUsingNamedPipes.dll
+C:\ProjectFiles\tools\anvil_cli\chart_display\libs\Named-Pipes\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\bin\Debug\ClientServerUsingNamedPipes.pdb
+C:\ProjectFiles\tools\anvil_cli\chart_display\libs\Named-Pipes\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Debug\ClientServerUsingNamedPipes.csprojAssemblyReference.cache
+C:\ProjectFiles\tools\anvil_cli\chart_display\libs\Named-Pipes\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Debug\ClientServerUsingNamedPipes.csproj.CoreCompileInputs.cache
+C:\ProjectFiles\tools\anvil_cli\chart_display\libs\Named-Pipes\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Debug\ClientServerUsingNamedPipes.dll
+C:\ProjectFiles\tools\anvil_cli\chart_display\libs\Named-Pipes\ClientServerUsingNamedPipes\ClientServerUsingNamedPipes\obj\Debug\ClientServerUsingNamedPipes.pdb

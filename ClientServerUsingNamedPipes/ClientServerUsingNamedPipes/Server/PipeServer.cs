@@ -28,6 +28,13 @@ namespace ClientServerUsingNamedPipes.Server
             _servers = new ConcurrentDictionary<string, ICommunicationServer>();
         }
 
+        public PipeServer(string pipe_name)
+        {
+            _pipeName = pipe_name;
+            _synchronizationContext = AsyncOperationManager.SynchronizationContext;
+            _servers = new ConcurrentDictionary<string, ICommunicationServer>();
+        }
+
         #endregion
 
         #region events
